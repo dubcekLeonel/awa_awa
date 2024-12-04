@@ -7,7 +7,7 @@ public class suma {
     // HECHO POR DAVID
     public static void main(String[] args) {
         suma calculadora = new suma();
-        System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+        System.out.println("huevos 11111");
         System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
         
         System.out.println("-----------------------------------------------");
