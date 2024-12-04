@@ -7,9 +7,13 @@ public class suma {
     // HECHO POR DAVID
     public static void main(String[] args) {
         suma calculadora = new suma();
-
+        
+        System.out.println("-----------------------------------------------");
         // Ejemplo de multiplicación
         System.out.println("Resultado de la multiplicación: " + calculadora.multiplicar());
+
+        System.out.println("-----------------------------------------------");
+        System.out.println("-----------------------------------------------");
     }
 
     // Método para multiplicar dos números
